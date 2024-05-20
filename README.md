@@ -1,8 +1,5 @@
 # Housing Price Prediction
 
-## Team: 16
-Yash Zaveri & Zeel Patel
-
 ## Introduction
 
 ### Background:
